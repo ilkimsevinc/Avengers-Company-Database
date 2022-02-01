@@ -1,5 +1,5 @@
 # COMP2222 Database Systems Project 2
-Queries (replace the variables C, E, J, etc. with a suitable value from the domain, for instance, if E represents an employee, then can be replaced with “emineekin” which is the user name of a registered employee):
+Queries (replace the variables C, E, J, etc. with a suitable value from the domain, for instance, if E represents an employee, then can be replaced with “ironman” which is the user name of a registered employee):
 
 1. Select the last names of unemployed end-users.
 2. Select the count of HRRs that also have an end-user profile.
